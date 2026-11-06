@@ -1,0 +1,7 @@
+﻿pollutant,weather_factor,n,pearson_r
+pm25_ug_m3,temp_mean_c,15,-0.26788319776683217
+pm25_ug_m3,precipitation_mm,15,
+pm10_ug_m3,temp_mean_c,15,-0.22379927077607573
+pm10_ug_m3,precipitation_mm,15,
+aqi,temp_mean_c,15,-0.29731403566236353
+aqi,precipitation_mm,15,
